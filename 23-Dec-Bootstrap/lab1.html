@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 1</title>
+    <style>
+        body{
+            margin: 0;
+        }
+        .container{
+            width: 100%;
+            height: 100vh;
+            margin: 0;
+            background-image: url("images/bg2.jpg");
+            background-size: cover;
+            align-items: center;
+            justify-content: center;
+            display: flex;   
+        }
+        .login{
+            display: flex;
+            border-radius: 20px;
+            height: 450px;
+            width: 300px;
+            position: relative;
+            background-color: rgb(253, 253, 253) ;
+            align-items: center;
+            overflow: hidden;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .login img{
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 35%;
+            width: 100%;
+            margin: 0;
+        }
+        .profilepic{
+            position: absolute;
+            top: 25%;
+            height: 100px;
+            width: 100px;
+            margin: 5px;
+            border-radius: 50%;
+            background-color: rgb(246, 238, 238) ;
+        }
+        .profilepic img{
+            height: 100%;
+            width: 100%;
+            border-radius: 50%;
+            transform: scale(90%);
+        }
+        .name{
+            color: rgb(109, 13, 219);
+            font-size: 23px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            margin-top: 15px;
+
+        }
+        .desig{
+            color: black;
+            font-size: 20px;
+            font-family:'Courier New', Courier, monospace;
+        }
+        .namecontainer{
+            display: flex;
+            flex-direction: column;
+            margin-top: 50px;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            top:40px;
+        }
+        .infocontainer{
+            display: flex;
+            height: 70px;
+            width: 100%;
+            background-color: rgba(249, 251, 253, 0.81);
+            flex-direction: row;
+            justify-content: space-around;
+            align-items: center;
+            position: relative;
+            top:50px;
+            border-top: 2px solid rgba(0, 0, 0, 0.128);
+            border-bottom: 2px solid rgba(0, 0, 0, 0.128);
+        }
+        .infobox{
+            display: flex;
+            height: 70px;
+            width: 70px;
+            position: sticky;
+            background-color: rgba(249, 251, 253, 0.81);
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        .spantitle{
+            font-size: 18px ;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+        }
+        .spanvalue{
+            font-size: 18px;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+        }
+        .buttoncontainer{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            top: 80px;
+        }
+        button{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 220px;
+            height: 35px;
+            background-color: rgb(126, 31, 215);
+            border: 0;
+            border-radius: 5px;
+            color: azure;
+            font-size: 18px;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+        }
+    </style>
+</head>
+<body style= " background-image: url('../images/bg1.jpg'); margin: 0; background-size: cover;">
+    <div class="container">
+        <div class="login">
+            <img src="../images/logbg.jpg">
+            <div class="profilepic">
+                <img src="../images/profilepic.jpg" alt="#"> 
+            </div>
+            <div class="namecontainer">
+                <div class="name">Christopher Nolan</div>
+                <div class="desig">UI/IX designer</div>
+            </div>
+            <div class="infocontainer">
+                <div class="infobox">
+                   <span class="spantitle">Projects</span> 
+                   <span class="spanvalue">7</span>
+                </div>
+                <div class="infobox">
+                    <span class="spantitle">Following</span> 
+                    <span class="spanvalue">1037</span>
+                </div>
+                <div class="infobox">
+                    <span class="spantitle">Followers</span> 
+                   <span class="spanvalue">7.7M</span>
+                </div>
+            </div>
+            <div class="buttoncontainer">
+                <button>Follow</button>
+            </div>
+        </div>
+       
+    </div>
+</body>
+</html>

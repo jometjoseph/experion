@@ -1,0 +1,164 @@
+body{
+    margin: 0;
+    /* overflow-x: hidden; */
+}
+.container{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    /* flex-direction: column;  */
+}
+.mytube-logo-container{
+    display: flex;
+    height: 50px;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 100%;  
+    position: absolute;
+    top: 60px;
+}
+.mytube-logo{
+    background-color: white;
+    border-radius: 5px;
+    color: red;
+    font-size: 25px;
+    width: 50px;
+}
+h2{
+    color: white;
+    font-size: 25px;
+}
+.mytube-container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.mytube-video-container{
+    display: flex;
+    /* background-color: azure;  */
+    height: 270px;
+    width: 280px;
+    flex-direction: column;
+}
+.mytube-thumbnail{
+    display: flex;
+    height: 60%;
+    width: 100%;
+}
+img{
+    width: 100%;
+}
+.mytube-video-details{
+    display: flex;
+    margin-top: 10px;
+    height: 30%;
+    width: 100%;
+}
+.mytube-channel-logo{
+    height: 50px;
+    width: 50px;
+}
+.logo{
+    border-radius: 50%;
+}
+.mytube-video-title{
+    display: flex;
+    height: 50px;
+    color: white;
+    margin: 10px;
+    font-size: 18px;
+    
+}
+.mytube-channel-name{
+    display: flex;
+    height: 50px;
+    position: absolute;
+    /* top: 240px; */
+    /* left: 80px; */
+    flex-direction: column; 
+    margin-left: 55px;
+    margin-top: 55px;
+    color: azure; 
+}
+.mytube-video-views{
+    display: flex;
+    position: absolute;
+    /* top: 260px; */
+    /* left: 80px; */
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 75px;
+    color: lightskyblue;
+}
+/* img1--https://i.ytimg.com/vi/lY2yjAdbvdQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1qKAz6uaYSaLxwFtVtQby01v27g
+logo--https://yt3.googleusercontent.com/QTpsceScLWmzgZXO6lPJo-s0CzCaGoat2S8PZzfdKtvqJTUh7jCLtYvCPH1RbUzVCOz2t_RIqIA=s176-c-k-c0x00ffffff-no-rj
+Shawn Mendes - Treat You Better
+Shawn Mendes
+2.3B views
+6 years ago
+
+img2--https://i.ytimg.com/vi/ZQFvkZBOMv0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAA1EPRvvg6j58r54lKNMCB9vFRg 
+logo--https://yt3.ggpht.com/BF1snvaP4mCXDuBvx88j5fdLpcAoEKYbMbTUs6jX23cI7eu2_OtvNzf_AxpHkOgGKU0b4-5dyiI=s68-c-k-c0x00ffffff-no-rj
+Toyota Innova HyCross - Feature Loaded MPV Without Crysta's Driving Feel | Faisal Khan
+Faisal Khan
+650K views
+3 weeks ago
+
+img3-https://i.ytimg.com/vi/bpjKmJnRPV8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA21FgLZbwV-F3mGSusX6y0zKEoyQ
+logo--https://yt3.ggpht.com/nTK6AFZrpjDHKNIHq0zqjkWCs3jm9ttQBAGOfIui0zlz_gQzeqAIOtQKfzbSUIA0Mu15HBDfCg=s68-c-k-c0x00ffffff-no-rj
+How Tamil Nadu's Socio-Economic Model Made it the 2nd Richest State in INDIA (GDP) : Case study
+Think School
+593K views
+3 days ago
+
+img4-https://i.ytimg.com/vi/9E9bscLGTAA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmKOySanbFexGFUBeOQu4v4hm1Hw
+logo--https://yt3.ggpht.com/ytc/AMLnZu9aPP4oul51I3_gJ0pMswvi2uCboaqGY3nlTbKg=s68-c-k-c0x00ffffff-no-rj
+
+Tony Stark at the court hearing. Iron Man 2
+AlexMovieClips
+1.4M views
+3 years ago
+
+img5-https://i.ytimg.com/vi/5Yp-WZqJNx8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2ky0uo37FjzLYwZ1TA2EMAgwRwA
+logo-https://yt3.ggpht.com/ytc/AMLnZu-AKPowlcVQfVhewq8Wy37Wbx5mhcDZRWZ1JezYCA=s68-c-k-c0x00ffffff-no-rj
+HAPPY BIRTHDAY | Karikku | Comedy
+Karikku
+24M views
+1 year ago
+
+img6-https://i.ytimg.com/vi/q_gV4KgqItk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACUEm-RrS-vMeCpW27gFGHDGTvvA
+logo--https://yt3.ggpht.com/deDXCaHYS2Oya803d42wyok04YZtKbNZ4VxFvkn8NxHGlihxl4JbwTnwSXeNuMiVv9QOQWxL=s68-c-k-c0x00ffffff-no-rj
+2023 BMW 3 Series vs Mercedes C-Class vs Audi A4 // The $50,000 Question
+Throttle House
+1M views
+2 months ago
+
+img7--https://i.ytimg.com/vi/7IKab3HcfFk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCS9j_5yZZzYFOWc0f0DHe_GS7utA
+logo--https://yt3.googleusercontent.com/ytc/AMLnZu9ouu2eBFlCyh6lORj8YUCdNENJRst9IoU5sYf1Ig=s176-c-k-c0x00ffffff-no-rj
+
+I Survived 50 Hours In Antarctica
+MrBeast
+55M views
+4 days ago
+
+img8-https://i.ytimg.com/vi/ky3KiiUK_D0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAe8qz3Q9D-Nmt-De23pp4sddmZNw
+logo-https://yt3.ggpht.com/wMxM6LdiWOKcrcKmUWZBo84YwRQldZenx0H8bROpWUBh1G1CCW8F8OTxE4WNQ5A63e9L8aguIA=s68-c-k-c0x00ffffff-no-rj
+
+Friends: The Friends Pretend To Like Rachel’s English Trifle (Season 6 Clip) | TBS
+TBS
+2.8M views
+11 months ago
+*/

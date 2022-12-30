@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../lib/fontawesome/css/all.min.css">
+    <style>
+        img{
+            height: 50px;
+            width: 50px;
+            border-radius: 50%;
+            transition-duration: 0.5s;
+        }
+        .avatar:hover{
+            z-index: 5;
+            transform: scale(1.1);
+
+        }
+        .overlap{
+            margin-left: -25px;
+        }
+        .email:hover::after{
+            content: '\2709';
+            position: absolute;
+        }
+        
+    </style>
+</head>
+<body>
+    <table class="table table-dark table-bordered table-striped table-hover">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Avatar</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>
+                    <div class="d-flex">
+                        <img class="avatar rounded-circle border border-warning" src="../images/Avatar2.jpg">
+                        <img class="avatar rounded-circle border border-warning overlap" src="../images/Avatar1.jpg">
+                    </div>
+                </td>
+                <td>User1</td>
+                <td>
+                    <span class="email">
+                        User1@gmail.com
+                    <span class="badge rounded-pill bg-success">&check;</span>
+                    <!-- <span class="fa-solid fa-envelope mail-icon"></span> -->
+
+                    </span>
+                    
+
+
+                </td>
+                <td>
+                    <div class="btn-group">
+                        <button class="btn btn-warning">
+                            <span class="fa fa-eye"></span>View
+                        </button>
+                        <button class="btn btn-danger">
+                            <span class="fa fa-trash"></span>Delete
+
+                        </button>
+                    </div>
+
+                </td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>
+                    <div class="d-flex">
+                        <img class="avatar rounded-circle border border-warning" src="../images/Avatar2.jpg">
+        
+                    </div>
+                </td>
+                <td>User2</td>
+                <td>
+                    <span class="email">
+                        User2@gmail.com
+                    </span>
+                    <!-- <span class="badge rounded-pill bg-success">&check;</span> -->
+                </td>
+                <td>
+                    <div class="btn-group">
+                        <button class="btn btn-warning">
+                            <span class="fa fa-eye"></span>View
+                        </button>
+                        <button class="btn btn-danger">
+                            <span class="fa fa-trash"></span>Delete
+
+                        </button>
+                    </div>
+
+                </td>
+            </tr>
+        </tbody>
+
+    </table>
+    
+</body>
+</html>
