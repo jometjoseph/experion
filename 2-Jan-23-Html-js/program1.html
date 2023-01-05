@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let data = ' a message from js'
+        console.log(data);
+    </script>
+    <p id="p1">Default content </p>
+    <script> 
+        var data = {
+            message: 'Hello world',
+            language: 'English'
+        }
+        console.log(data);
+        console.table(data);
+        console.info('login was succesful');
+        console.warn('warning msg');
+        console.error('error message');
+       alert('Warning:use right username'); //alert messages
+
+       let option = confirm('Do you want to log out');
+       console.log(option);
+       if (option){
+        //user logic to display msg
+        console.log('user logged out successfully');
+       }
+     const name = prompt('Enter your name: ');
+     console.log('you are : ',name);
+    
+    document.write('<h1>hello world</h1>');
+    const element = document.getElementById('p1');
+    console.log(element);
+    element.innerText = 'New text';
+    console.log(element.innerText);
+    element.style.color = 'red';
+
+    </script> -->
+
+</body>
+</html>

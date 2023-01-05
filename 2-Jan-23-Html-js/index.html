@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <script>
+        // let data = ' a message from js'
+        // console.log(data);
+    </script>
+    <p id="p1">Default content </p>
+    <script> 
+        // var data = {
+        //     message: 'Hello world',
+        //     language: 'English'
+        // }
+        // console.log(data);
+        // console.table(data);
+        // console.info('login was succesful');
+        // console.warn('warning msg');
+        // console.error('error message');
+       // alert('Warning:use right username'); //alert messages
+
+    //    let option = confirm('Do you want to log out');
+    //    console.log(option);
+    //    if (option){
+    //     //user logic to display msg
+    //     console.log('user logged out successfully');
+    //    }
+    //  const name = prompt('Enter your name: ');
+    //  console.log('you are : ',name);
+    
+    //document.write('<h1>hello world</h1>');
+    const element = document.getElementById('p1');
+    // console.log(element);
+    // element.innerText = 'New text';
+    // console.log(element.innerText);
+    element.style.color = 'red';
+
+    </script> -->
+
+    <!-- <p id="p1">Hello world</p>
+    <script>
+        let e = document.getElementById('p1');
+        e.style.color = 'red';
+        e.style.fontSize = '25px';
+        e.style.fontFamily = 'arial';
+        e.style.fontWeight = 'bold';
+        e.style.textAlign = 'center';
+    </script> -->
+
+    <!-- <button onclick="handleClick(event)">Click me</button>
+    <button onclick="handleClick(event)">Click me</button>
+    <p onclick="handleClick(event)">Click on the p tag</p>
+    <script>
+        function handleClick(e){
+           // console.log('Button clicked');
+            //document.write('<button>button clicked</button>')
+            //alert('Button clicked');
+            console.log(e);
+            e.target.innerText = 'clicked';
+            e.target.style.color = 'green';
+            e.target.style.background = 'red';
+            e.target.style.height = '50px';
+            e.target.style.width = '100px';
+
+        }
+    </script> -->
+    <!-- <p id="p1" style="color: red;"> first paragraph</p>
+    <p>second paragraph</p>
+    <p> third paragraph</p>
+    <p> fourth paragraph</p> -->
+    <input id="test" type="checkbox">select this
+    <br>
+    <input type="text" id="email" value="">
+    <script>
+        var e = document.getElementsByTagName('p');
+        for (let i = 0; i< e.length; i++){
+            const element = e[i];
+            element.innerText = 'New Text';
+            element.style.color = 'blue';
+        }
+       document.getElementById('p1').remove();
+        document.getElementById('test').setAttribute('checked','checked');
+        document.getElementById('email').setAttribute('value', 'me@gmail.com');
+        let res = document.getElementById('email').getAttribute('type');
+        document.write(res);
+    </script>
+</body>
+</html>
