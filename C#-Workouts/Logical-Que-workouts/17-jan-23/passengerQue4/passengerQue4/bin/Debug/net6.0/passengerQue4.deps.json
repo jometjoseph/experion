@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "passengerQue4/1.0.0": {
+        "runtime": {
+          "passengerQue4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "passengerQue4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

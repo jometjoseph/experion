@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passengerQue-9", "passengerQue-9\passengerQue-9.csproj", "{A414E467-0EDC-4790-907D-20F1C70AB010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A414E467-0EDC-4790-907D-20F1C70AB010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A414E467-0EDC-4790-907D-20F1C70AB010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A414E467-0EDC-4790-907D-20F1C70AB010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A414E467-0EDC-4790-907D-20F1C70AB010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AE7EE99-568D-49E6-BA8B-12C3CA0A361A}
+	EndGlobalSection
+EndGlobal

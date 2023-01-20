@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\bin\Debug\net6.0\passengerQue4.exe
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\bin\Debug\net6.0\passengerQue4.deps.json
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\bin\Debug\net6.0\passengerQue4.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\bin\Debug\net6.0\passengerQue4.dll
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\bin\Debug\net6.0\passengerQue4.pdb
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\obj\Debug\net6.0\passengerQue4.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\obj\Debug\net6.0\passengerQue4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\obj\Debug\net6.0\passengerQue4.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\obj\Debug\net6.0\passengerQue4.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\obj\Debug\net6.0\passengerQue4.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\obj\Debug\net6.0\passengerQue4.dll
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\obj\Debug\net6.0\refint\passengerQue4.dll
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\obj\Debug\net6.0\passengerQue4.pdb
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\obj\Debug\net6.0\passengerQue4.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\passengerQue4\passengerQue4\obj\Debug\net6.0\ref\passengerQue4.dll

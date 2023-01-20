@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\obj\Debug\net6.0\flightFareQue-2.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\obj\Debug\net6.0\flightFareQue-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\obj\Debug\net6.0\flightFareQue-2.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\obj\Debug\net6.0\flightFareQue-2.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\obj\Debug\net6.0\flightFareQue-2.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\bin\Debug\net6.0\flightFareQue-2.exe
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\bin\Debug\net6.0\flightFareQue-2.deps.json
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\bin\Debug\net6.0\flightFareQue-2.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\bin\Debug\net6.0\flightFareQue-2.dll
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\bin\Debug\net6.0\flightFareQue-2.pdb
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\obj\Debug\net6.0\flightFareQue-2.dll
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\obj\Debug\net6.0\refint\flightFareQue-2.dll
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\obj\Debug\net6.0\flightFareQue-2.pdb
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\obj\Debug\net6.0\flightFareQue-2.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\flightFareQue-2\flightFareQue-2\obj\Debug\net6.0\ref\flightFareQue-2.dll

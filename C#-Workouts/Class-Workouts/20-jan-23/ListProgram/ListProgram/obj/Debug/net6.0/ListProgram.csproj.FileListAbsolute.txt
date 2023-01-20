@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\bin\Debug\net6.0\ListProgram.exe
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\bin\Debug\net6.0\ListProgram.deps.json
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\bin\Debug\net6.0\ListProgram.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\bin\Debug\net6.0\ListProgram.dll
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\bin\Debug\net6.0\ListProgram.pdb
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\obj\Debug\net6.0\ListProgram.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\obj\Debug\net6.0\ListProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\obj\Debug\net6.0\ListProgram.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\obj\Debug\net6.0\ListProgram.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\obj\Debug\net6.0\ListProgram.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\obj\Debug\net6.0\ListProgram.dll
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\obj\Debug\net6.0\refint\ListProgram.dll
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\obj\Debug\net6.0\ListProgram.pdb
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\obj\Debug\net6.0\ListProgram.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\ListProgram\ListProgram\obj\Debug\net6.0\ref\ListProgram.dll

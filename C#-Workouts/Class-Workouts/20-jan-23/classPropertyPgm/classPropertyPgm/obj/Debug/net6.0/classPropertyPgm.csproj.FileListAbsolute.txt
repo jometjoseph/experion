@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\obj\Debug\net6.0\classPropertyPgm.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\obj\Debug\net6.0\classPropertyPgm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\obj\Debug\net6.0\classPropertyPgm.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\obj\Debug\net6.0\classPropertyPgm.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\obj\Debug\net6.0\classPropertyPgm.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\bin\Debug\net6.0\classPropertyPgm.exe
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\bin\Debug\net6.0\classPropertyPgm.deps.json
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\bin\Debug\net6.0\classPropertyPgm.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\bin\Debug\net6.0\classPropertyPgm.dll
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\bin\Debug\net6.0\classPropertyPgm.pdb
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\obj\Debug\net6.0\classPropertyPgm.dll
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\obj\Debug\net6.0\refint\classPropertyPgm.dll
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\obj\Debug\net6.0\classPropertyPgm.pdb
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\obj\Debug\net6.0\classPropertyPgm.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\classPropertyPgm\classPropertyPgm\obj\Debug\net6.0\ref\classPropertyPgm.dll

@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\bin\Debug\net6.0\classpgm.exe
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\bin\Debug\net6.0\classpgm.deps.json
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\bin\Debug\net6.0\classpgm.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\bin\Debug\net6.0\classpgm.dll
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\bin\Debug\net6.0\classpgm.pdb
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\obj\Debug\net6.0\classpgm.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\obj\Debug\net6.0\classpgm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\obj\Debug\net6.0\classpgm.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\obj\Debug\net6.0\classpgm.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\obj\Debug\net6.0\classpgm.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\obj\Debug\net6.0\classpgm.dll
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\obj\Debug\net6.0\refint\classpgm.dll
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\obj\Debug\net6.0\classpgm.pdb
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\obj\Debug\net6.0\classpgm.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\classpgm\classpgm\obj\Debug\net6.0\ref\classpgm.dll

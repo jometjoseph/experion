@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\bin\Debug\net6.0\listOfDictinaryPgm.exe
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\bin\Debug\net6.0\listOfDictinaryPgm.deps.json
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\bin\Debug\net6.0\listOfDictinaryPgm.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\bin\Debug\net6.0\listOfDictinaryPgm.dll
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\bin\Debug\net6.0\listOfDictinaryPgm.pdb
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\obj\Debug\net6.0\listOfDictinaryPgm.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\obj\Debug\net6.0\listOfDictinaryPgm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\obj\Debug\net6.0\listOfDictinaryPgm.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\obj\Debug\net6.0\listOfDictinaryPgm.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\obj\Debug\net6.0\listOfDictinaryPgm.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\obj\Debug\net6.0\listOfDictinaryPgm.dll
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\obj\Debug\net6.0\refint\listOfDictinaryPgm.dll
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\obj\Debug\net6.0\listOfDictinaryPgm.pdb
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\obj\Debug\net6.0\listOfDictinaryPgm.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\listOfDictinaryPgm\listOfDictinaryPgm\obj\Debug\net6.0\ref\listOfDictinaryPgm.dll
