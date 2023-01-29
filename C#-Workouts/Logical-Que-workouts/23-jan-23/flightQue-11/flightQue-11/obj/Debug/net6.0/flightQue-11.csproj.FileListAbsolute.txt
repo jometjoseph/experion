@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\bin\Debug\net6.0\flightQue-11.exe
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\bin\Debug\net6.0\flightQue-11.deps.json
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\bin\Debug\net6.0\flightQue-11.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\bin\Debug\net6.0\flightQue-11.dll
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\bin\Debug\net6.0\flightQue-11.pdb
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\obj\Debug\net6.0\flightQue-11.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\obj\Debug\net6.0\flightQue-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\obj\Debug\net6.0\flightQue-11.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\obj\Debug\net6.0\flightQue-11.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\obj\Debug\net6.0\flightQue-11.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\obj\Debug\net6.0\flightQue-11.dll
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\obj\Debug\net6.0\refint\flightQue-11.dll
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\obj\Debug\net6.0\flightQue-11.pdb
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\obj\Debug\net6.0\flightQue-11.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\flightQue-11\flightQue-11\obj\Debug\net6.0\ref\flightQue-11.dll

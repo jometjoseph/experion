@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\bin\Debug\net6.0\arrayOfObjects.exe
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\bin\Debug\net6.0\arrayOfObjects.deps.json
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\bin\Debug\net6.0\arrayOfObjects.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\bin\Debug\net6.0\arrayOfObjects.dll
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\bin\Debug\net6.0\arrayOfObjects.pdb
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\obj\Debug\net6.0\arrayOfObjects.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\obj\Debug\net6.0\arrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\obj\Debug\net6.0\arrayOfObjects.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\obj\Debug\net6.0\arrayOfObjects.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\obj\Debug\net6.0\arrayOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\obj\Debug\net6.0\arrayOfObjects.dll
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\obj\Debug\net6.0\refint\arrayOfObjects.dll
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\obj\Debug\net6.0\arrayOfObjects.pdb
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\obj\Debug\net6.0\arrayOfObjects.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\arrayOfObjects\arrayOfObjects\obj\Debug\net6.0\ref\arrayOfObjects.dll

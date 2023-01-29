@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\bin\Debug\net6.0\passenger-bag-Que-15.exe
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\bin\Debug\net6.0\passenger-bag-Que-15.deps.json
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\bin\Debug\net6.0\passenger-bag-Que-15.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\bin\Debug\net6.0\passenger-bag-Que-15.dll
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\bin\Debug\net6.0\passenger-bag-Que-15.pdb
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\obj\Debug\net6.0\passenger-bag-Que-15.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\obj\Debug\net6.0\passenger-bag-Que-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\obj\Debug\net6.0\passenger-bag-Que-15.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\obj\Debug\net6.0\passenger-bag-Que-15.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\obj\Debug\net6.0\passenger-bag-Que-15.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\obj\Debug\net6.0\passenger-bag-Que-15.dll
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\obj\Debug\net6.0\refint\passenger-bag-Que-15.dll
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\obj\Debug\net6.0\passenger-bag-Que-15.pdb
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\obj\Debug\net6.0\passenger-bag-Que-15.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\passenger-bag-Que-15\passenger-bag-Que-15\obj\Debug\net6.0\ref\passenger-bag-Que-15.dll

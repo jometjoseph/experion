@@ -1,0 +1,30 @@
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\bin\Debug\net6.0\PassengerFoodQue16.exe
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\bin\Debug\net6.0\PassengerFoodQue16.deps.json
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\bin\Debug\net6.0\PassengerFoodQue16.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\bin\Debug\net6.0\PassengerFoodQue16.dll
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\bin\Debug\net6.0\PassengerFoodQue16.pdb
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.dll
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\refint\PassengerFoodQue16.dll
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.pdb
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\ref\PassengerFoodQue16.dll
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\bin\Debug\net6.0\PassengerFoodQue16.exe
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\bin\Debug\net6.0\PassengerFoodQue16.deps.json
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\bin\Debug\net6.0\PassengerFoodQue16.runtimeconfig.json
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\bin\Debug\net6.0\PassengerFoodQue16.dll
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\bin\Debug\net6.0\PassengerFoodQue16.pdb
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.AssemblyInfo.cs
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.dll
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\refint\PassengerFoodQue16.dll
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.pdb
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\PassengerFoodQue16.genruntimeconfig.cache
+C:\Users\jomet.joseph\Desktop\Htmlfolder\Experion\C# sharp problems\C#-Workouts\Logical-Que-workouts\24-jan-23\PassengerFoodQue16\PassengerFoodQue16\obj\Debug\net6.0\ref\PassengerFoodQue16.dll

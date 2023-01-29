@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\bin\Debug\net6.0\PassengerCounterQue-10.exe
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\bin\Debug\net6.0\PassengerCounterQue-10.deps.json
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\bin\Debug\net6.0\PassengerCounterQue-10.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\bin\Debug\net6.0\PassengerCounterQue-10.dll
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\bin\Debug\net6.0\PassengerCounterQue-10.pdb
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\obj\Debug\net6.0\PassengerCounterQue-10.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\obj\Debug\net6.0\PassengerCounterQue-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\obj\Debug\net6.0\PassengerCounterQue-10.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\obj\Debug\net6.0\PassengerCounterQue-10.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\obj\Debug\net6.0\PassengerCounterQue-10.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\obj\Debug\net6.0\PassengerCounterQue-10.dll
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\obj\Debug\net6.0\refint\PassengerCounterQue-10.dll
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\obj\Debug\net6.0\PassengerCounterQue-10.pdb
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\obj\Debug\net6.0\PassengerCounterQue-10.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\PassengerCounterQue-10\PassengerCounterQue-10\obj\Debug\net6.0\ref\PassengerCounterQue-10.dll

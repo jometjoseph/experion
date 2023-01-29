@@ -1,0 +1,15 @@
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\bin\Debug\net6.0\SeatAllocationQue-14.exe
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\bin\Debug\net6.0\SeatAllocationQue-14.deps.json
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\bin\Debug\net6.0\SeatAllocationQue-14.runtimeconfig.json
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\bin\Debug\net6.0\SeatAllocationQue-14.dll
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\bin\Debug\net6.0\SeatAllocationQue-14.pdb
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\obj\Debug\net6.0\SeatAllocationQue-14.csproj.AssemblyReference.cache
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\obj\Debug\net6.0\SeatAllocationQue-14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\obj\Debug\net6.0\SeatAllocationQue-14.AssemblyInfoInputs.cache
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\obj\Debug\net6.0\SeatAllocationQue-14.AssemblyInfo.cs
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\obj\Debug\net6.0\SeatAllocationQue-14.csproj.CoreCompileInputs.cache
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\obj\Debug\net6.0\SeatAllocationQue-14.dll
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\obj\Debug\net6.0\refint\SeatAllocationQue-14.dll
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\obj\Debug\net6.0\SeatAllocationQue-14.pdb
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\obj\Debug\net6.0\SeatAllocationQue-14.genruntimeconfig.cache
+C:\Users\jomet.joseph\source\repos\SeatAllocationQue-14\SeatAllocationQue-14\obj\Debug\net6.0\ref\SeatAllocationQue-14.dll
